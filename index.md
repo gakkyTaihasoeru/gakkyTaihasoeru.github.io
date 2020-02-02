@@ -1,5 +1,7 @@
 ![プロフィール画像](profile-picture-1568680666.jpg)
 
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/wayadahata?ref_src=twsrc%5Etfw">Tweets by wayadahata</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # About
 JavaScriptができるインフラエンジニアです！
 機械系エンジニアを3年からジョブチェンジしたインフラエンジニアです。
