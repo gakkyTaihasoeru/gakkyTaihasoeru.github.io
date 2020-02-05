@@ -38,7 +38,6 @@ JavaScriptができるインフラエンジニアです！
 <!-- 
 - [LinkedIn](LinkedInプロフィールのURL)
 - [Mail](mailto:メールアドレス)
-
 # History
 - 2019年 [株式会社ドワンゴ](URL) 入社
 - 2018年 角川ドワンゴ学園 [N高等学校](URL) 卒業
