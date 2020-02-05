@@ -4,10 +4,6 @@ date: 2020-02-06T12:00:00+09:00
 slug: "resume"
 ---
 
-<img src="./profile-picture-1568680666.jpg" width="48px">
-
-<a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/wayadahata?ref_src=twsrc%5Etfw">Tweets by wayadahata</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <iframe src="https://www.openprocessing.org/sketch/833662/embed/" width="400" height="300"></iframe>
 
 # About
@@ -43,3 +39,7 @@ JavaScriptができるインフラエンジニアです！
 - 2018年 角川ドワンゴ学園 [N高等学校](URL) 卒業
 - 表彰、受賞歴、メディア掲載記事などあれば
 -->
+
+<img src="./profile-picture-1568680666.jpg" width="48px">
+
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/wayadahata?ref_src=twsrc%5Etfw">Tweets by wayadahata</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
