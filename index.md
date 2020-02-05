@@ -4,8 +4,6 @@ date: 2020-02-06T12:00:00+09:00
 slug: "resume"
 ---
 
-<iframe src="https://www.openprocessing.org/sketch/833662/embed/" width="400" height="300"></iframe>
-
 <img src="./profile-picture-1568680666.jpg" width="48px">
 
 # About
@@ -31,7 +29,7 @@ JavaScriptができるインフラエンジニアです！
   - [個人的 BIG-IPのルートドメイン、パーティションの変更方法](https://qiita.com/wayadahata/items/c3fd26c2e72cef201e54)
   - [個人的 Linuxでディスクの使用量を表示する](https://qiita.com/wayadahata/items/64a866ad8bfec163ce0f)
 - 作った作品
-　- [円群の躍動](http://www.openprocessing.org/sketch/833662)
+  - [円群の躍動](http://www.openprocessing.org/sketch/833662)
 
 # Contact
 - [Twitter](https://twitter.com/wayadahata)
