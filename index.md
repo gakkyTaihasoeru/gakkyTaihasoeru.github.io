@@ -23,7 +23,6 @@ JavaScriptができるインフラエンジニアです！
 - Tool,MiddleWare（Git,SVN, BIG-IP）
 
 # Works
-アピールできる活動内容を書きましょう。
 - [GitHub](https://github.com/gakkyTaihasoeru)
 - [Qiita](https://qiita.com/wayadahata)
   - [個人的 BIG-IPのルートドメイン、パーティションの変更方法](https://qiita.com/wayadahata/items/c3fd26c2e72cef201e54)
