@@ -17,8 +17,8 @@ JavaScriptができるインフラエンジニアです！
 - サーバー運用、BIG-IP
 
 # Skills
-- OS（Windows,CentOS,Ubuntu）
-- Languages（JavaScript,Python）
+- OS（Windows Server 2016,CentOS6,7,Ubuntu）
+- Languages（JavaScript,Python3）
 - Engine,Frameworks (Node.js,Electron)
 - Tool,MiddleWare（Git,SVN, BIG-IP）
 
