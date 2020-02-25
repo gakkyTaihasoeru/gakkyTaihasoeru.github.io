@@ -1,2 +1,2 @@
-gakkyTaihasoeru.github.io
+gakkyTaihasoeru
 https://gakkytaihasoeru.github.io/
